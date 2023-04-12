@@ -1,0 +1,19 @@
+/* Created by: Graydon Ezzeddin
+* Created on: Mar 2022
+* This CSS file defines the style for index.html
+*/
+
+body {
+	background-color: paleturquoise;
+}
+
+h1 {
+	background-color: purple;
+	color: aliceblue;
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: whitesmoke;
+}
