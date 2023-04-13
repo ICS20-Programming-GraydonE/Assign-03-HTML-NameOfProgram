@@ -4,16 +4,18 @@
 */
 
 body {
-	background-color: paleturquoise;
+	background-color: lightgoldenrodyellow;
 }
 
-h1 {
-	background-color: purple;
-	color: aliceblue;
+h4 {
+	background-color: sandybrown;
+	color: blue;
 	padding: 40px;
 	text-align: center;
 }
 
 p {
-	background-color: whitesmoke;
+	background-color:aliceblue;
+  color: sandybrown;
+  
 }
